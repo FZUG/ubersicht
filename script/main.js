@@ -33,7 +33,7 @@ $(function () {
 
   // Startup
 
-  var githubOrganisation = 'fzug;
+  var githubOrganisation = 'fzug';
   // If ubersicht is running as a github-page, we can use the subdomain as
   // the default organisation
   if(window.location.host.indexOf('.github.io') !== -1){
